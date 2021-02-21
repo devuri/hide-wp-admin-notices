@@ -2,7 +2,7 @@
 /**
  * @wordpress-plugin
  * Plugin Name:       Hide Admin Notice.
- * Plugin URI:        https://github.com/devuri
+ * Plugin URI:        https://github.com/devuri/hide-wp-admin-notices
  * Description:       Hides admin notices in WordPress for non admin users.
  * Version:           0.0.1
  * Requires PHP:      5.6
